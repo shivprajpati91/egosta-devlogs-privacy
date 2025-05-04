@@ -23,6 +23,7 @@ The app provides links to:
 - **Instagram**
 - **WhatsApp**
 - **Gmail**
+- **Github**
 
 These are for help and support purposes only. We are not responsible for the content or privacy policies of these external platforms.
 
