@@ -6,36 +6,40 @@ Effective Date: May 5, 2025
 
 ## 1. Information We Collect
 
-- **Firebase Authentication**: We collect and store your email address only for login purposes.
-- **Device Storage**: The app requests access to your device storage solely to read and play video files stored on your device. No files are uploaded or stored externally.
-- **No Personal Uploads**: We do not collect or upload any videos or media.
+- **Email Entry**: The app allows users to log in or create an account using any email address. This may include manually entered or random Gmail addresses. No verification is required.
+- **Firebase Storage**: The entered email address is stored in Firebase solely for login/account identification.
+- **Device Storage Access**: The app requests permission to access your device storage only to read and play local video files. No files are uploaded to any server or cloud storage.
+- **No Personal Uploads or Media Access Beyond Video Playback**: The app does not collect or upload videos, images, or personal content.
 
 ## 2. How We Use Your Information
 
-- To allow you to log in via Gmail.
-- To access and display local video files.
-- We do not use your data for analytics or marketing.
+- To allow basic login and identification inside the app using the provided email address.
+- To read and play videos from your device's local storage.
+- We do not analyze, track, or share your information for advertising or analytics.
 
 ## 3. External Links
 
-The app provides links to external platforms like:
-- Instagram
-- WhatsApp
-- Gmail
+The app provides links to:
+- **Instagram**
+- **WhatsApp**
+- **Gmail**
 
-These links are used for help and support. We are not responsible for the privacy policies of these external services.
+These are for help and support purposes only. We are not responsible for the content or privacy policies of these external platforms.
 
 ## 4. Data Security
 
-We use Firebase Authentication to secure user login. We do not store sensitive personal data.
+- We use Firebase to store the entered email address securely.
+- No sensitive or verified personal data is collected or stored.
+- Your device video files remain on your device and are not transmitted anywhere.
 
-## 5. Changes
+## 5. Changes to This Policy
 
-We may update this policy. Changes will be posted on this page.
+We may update this policy occasionally. All changes will be posted here.
 
 ## 6. Contact Us
 
 For questions or support, contact:
+
 📧 shivprajapati3435@gmail.com  
 📱 [Instagram](https://www.instagram.com/egosta.devlogs)  
-📞 WhatsApp link in app
+📞 WhatsApp link is provided in the app.
