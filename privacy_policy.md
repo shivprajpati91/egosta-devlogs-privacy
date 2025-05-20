@@ -1,58 +1,72 @@
 Effective Date: May 10, 2025
 
-Egosta Devlogs is a video player app developed by Shiv Prajapati. This privacy policy explains how user data is handled.
+Egosta Devlogs is a video player app developed by Shiv Prajapati. This privacy policy outlines how user data is collected, used, and protected.
 
 1. Information We Collect
-Email Entry:
-The app allows users to log in or create an account using their email address. This may include manually entered or random Gmail addresses. No verification is required.
+📧 Email Entry
+Users can log in or create an account using any email address (random or manually entered).
 
-Note: Google Sign-In is currently disabled temporarily. Only email/password login is supported.
+No email verification is required.
 
-Firebase Storage:
-The entered email address is stored in Firebase solely for login/account identification purposes.
+Google Sign-In is currently disabled. Only email/password login is supported.
 
-Device Storage Access:
-The app requests permission to access your device storage only to read and play local video files. No files are uploaded to any server or cloud storage.
+🔐 Firebase Authentication
+The entered email is stored securely via Firebase and used only for login/account identification.
 
-No Personal Uploads or Media Access Beyond Video Playback:
-The app does not collect or upload videos, images, or personal content.
+We do not collect names, passwords, or other personal details outside Firebase's default handling.
+
+📁 Device Storage Access
+The app requests permission only to access local video files for playback.
+
+No files are uploaded to any server or cloud service.
+
+🚫 No Personal Uploads or Hidden Access
+The app does not upload videos, images, or any personal content.
+
+It does not access any media beyond selected local videos for playback.
 
 2. How We Use Your Information
-Basic Login: To allow basic login and identification inside the app using the provided email address.
+Basic Login: To authenticate users and allow access to the app.
 
-Video Playback: To read and play videos from your device's local storage.
+Video Playback: To display and play video files from your device storage.
 
-No Analytics or Tracking: We do not analyze, track, or share your information for advertising or analytics purposes.
+No Tracking: We do not analyze, track, or share your usage data or account information.
 
 3. External Links
-The app provides links to:
+The app includes optional support links to:
 
-Instagram
+📸 Instagram
 
-WhatsApp
+💬 WhatsApp
 
-Gmail
+📧 Gmail
 
-GitHub
+🖥️ GitHub
 
-These links are for help and support purposes only. We are not responsible for the content or privacy policies of these external platforms.
+These are provided only for support purposes. We are not responsible for the privacy practices of these external platforms.
 
 4. Data Security
-Firebase Storage: We use Firebase to store the entered email address securely. No sensitive or verified personal data is collected or stored.
+Email login credentials are securely stored via Firebase Authentication.
 
-Video Files: Your device video files remain on your device and are not transmitted anywhere.
+No other personal or sensitive data is collected or stored.
+
+All video files remain only on your device and are never uploaded or shared.
 
 5. AI and Premium Features (UI Only)
-AI Features (Coming Soon): We are planning to introduce AI features in future updates, but these features are currently not active and are only included for design purposes.
+AI Features: Planned for future versions. Currently, they are not active and are shown only for UI demonstration.
 
-Premium Features (UI Only): Premium features are designed and displayed in the app's UI but are not yet functional or active. These features are shown only for design and user experience purposes.
+Premium Features: Displayed in the app's design but not yet functional. No payment or access is involved at this time.
 
 6. Changes to This Policy
-We may update this policy occasionally. All changes will be posted here, and the effective date will be revised accordingly.
+This Privacy Policy may be updated from time to time.
+
+We will update the Effective Date accordingly.
+
+Continued use of the app constitutes acceptance of any changes.
 
 7. Contact Us
-For questions or support, contact:
+For any support or questions:
 
 📧 Email: shivprajapati3435@gmail.com
-📱 Instagram
-📞 WhatsApp link is provided in the app
+📸 Instagram, WhatsApp, Gmail: Support links are available in the app
+
