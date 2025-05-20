@@ -1,16 +1,21 @@
-Privacy Policy for Egosta Devlogs
 Effective Date: May 10, 2025
 
 Egosta Devlogs is a video player app developed by Shiv Prajapati. This privacy policy explains how user data is handled.
 
 1. Information We Collect
-Email Entry: The app allows users to log in or create an account using their email address. This may include manually entered or random Gmail addresses. No verification is required. We also support Google login and Gmail password login.
+Email Entry:
+The app allows users to log in or create an account using their email address. This may include manually entered or random Gmail addresses. No verification is required.
 
-Firebase Storage: The entered email address is stored in Firebase solely for login/account identification purposes.
+Note: Google Sign-In is currently disabled temporarily. Only email/password login is supported.
 
-Device Storage Access: The app requests permission to access your device storage only to read and play local video files. No files are uploaded to any server or cloud storage.
+Firebase Storage:
+The entered email address is stored in Firebase solely for login/account identification purposes.
 
-No Personal Uploads or Media Access Beyond Video Playback: The app does not collect or upload videos, images, or personal content.
+Device Storage Access:
+The app requests permission to access your device storage only to read and play local video files. No files are uploaded to any server or cloud storage.
+
+No Personal Uploads or Media Access Beyond Video Playback:
+The app does not collect or upload videos, images, or personal content.
 
 2. How We Use Your Information
 Basic Login: To allow basic login and identification inside the app using the provided email address.
@@ -49,8 +54,5 @@ We may update this policy occasionally. All changes will be posted here, and the
 For questions or support, contact:
 
 📧 Email: shivprajapati3435@gmail.com
-
 📱 Instagram
-
-📞 WhatsApp link is provided in the app.
-
+📞 WhatsApp link is provided in the app
