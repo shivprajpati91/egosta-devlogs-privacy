@@ -34,13 +34,9 @@ No Tracking: We do not analyze, track, or share your usage data or account infor
 
 3. External Links
 The app includes optional support links to:
-
 📸 Instagram
-
 💬 WhatsApp
-
 📧 Gmail
-
 🖥️ GitHub
 
 These are provided only for support purposes. We are not responsible for the privacy practices of these external platforms.
@@ -52,21 +48,25 @@ No other personal or sensitive data is collected or stored.
 
 All video files remain only on your device and are never uploaded or shared.
 
-5. AI and Premium Features (UI Only)
-AI Features: Planned for future versions. Currently, they are not active and are shown only for UI demonstration.
+5. AI & Subscription UI (For Display Only)
+💡 AI Features:
+Some AI-related features are visually shown in the UI, but they are not yet functional. These are for future planning and design demonstration only.
 
-Premium Features: Displayed in the app's design but not yet functional. No payment or access is involved at this time.
+💎 Subscription / Premium UI:
+The app may show premium features or subscription sections in the UI.
+
+These are not active.
+
+No payment, purchase, or subscription functionality is included in the current version.
+
+These are designed purely for portfolio/interview purposes to showcase the developer's deployment and design skills.
 
 6. Changes to This Policy
 This Privacy Policy may be updated from time to time.
-
 We will update the Effective Date accordingly.
-
 Continued use of the app constitutes acceptance of any changes.
 
 7. Contact Us
 For any support or questions:
-
 📧 Email: shivprajapati3435@gmail.com
-📸 Instagram, WhatsApp, Gmail: Support links are available in the app
-
+📸 Instagram, WhatsApp, Gmail: Support links available in the app
