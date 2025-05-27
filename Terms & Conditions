@@ -3,81 +3,81 @@ Effective Date: May 10, 2025
 By using the Egosta Devlogs app ("the app"), you agree to the following terms and conditions:
 
 1. Account Creation and Use
-The app allows users to create an account using any email address and password.
+Users can create an account using any email address and password.
 
-Email addresses can be random or manually entered
+Email addresses can be random or manually entered.
 
-No email verification is required
+No email verification is required.
 
-This information is stored securely using Firebase Authentication
+Login credentials are stored securely via Firebase Authentication.
 
-Google Sign-In is currently disabled
+Google Sign-In is currently disabled and not supported.
 
 2. Data Privacy
-We respect your privacy. The app:
+We value your privacy. The app:
 
-Stores only the email address and password in Firebase for login/account purposes
+Stores only the email and password for login/account purposes via Firebase.
 
-Does not verify or use the email for communication
+Does not verify or use the email for communication.
 
-Does not collect or share personal information
+Does not collect, upload, or share personal or media data.
 
-Does not upload any media or video content
+Operates entirely on-device for video playback.
 
-Please refer to our full Privacy Policy for more details.
+➡️ Refer to the Privacy Policy for full details.
 
 3. Video Playback
-Egosta Devlogs plays videos stored locally on your device.
+The app plays videos stored locally on your device.
 
-No video files are uploaded or shared
+No videos are uploaded or shared externally.
 
-You are responsible for the content you access or play
+Users are responsible for ensuring compliance with applicable content laws when using the app.
 
 4. Social & Support Links
-The app may link to platforms like:
+The app includes optional support links to:
 
-Instagram
+📸 Instagram
 
-WhatsApp
+💬 WhatsApp
 
-Gmail
+📧 Gmail
 
-GitHub
+🖥️ GitHub
 
-These are provided only for help and support. We do not collect data through them.
+These are for support only. We do not collect data through them.
 
 5. User Responsibility
-You are responsible for ensuring that video content used with the app complies with applicable copyright and content laws.
+You are solely responsible for using the app in compliance with copyright laws and local regulations.
 
 6. Security
-Your login details (email & password) are stored securely via Firebase Authentication.
+Email and password data are handled securely through Firebase Authentication.
 
-We do not store passwords outside Firebase
+We do not store passwords or personal data outside of Firebase.
 
-No additional personal or sensitive data is collected
+The app does not access or store any other sensitive user information.
 
 7. Disclaimer
 The app is provided "as is." We are not liable for:
 
-Technical glitches
+Technical issues
 
-Video playback issues
+Playback errors
 
-Incompatibility with certain devices
+Device or OS incompatibility
 
 8. AI and Premium Features (UI Only)
-The app may show upcoming AI and premium features, which:
+AI and premium features shown in the UI are non-functional.
 
-Are currently non-functional and UI-only
+These features are included for future development and UI demonstration only.
 
-Will be explained in future updates
+No data is collected and no background processing occurs.
 
-Do not collect any data or perform background tasks
+No payment or subscription options are available or required.
 
 9. Changes to Terms
-These terms may be updated in the future. Continued use of the app indicates your acceptance of updated terms.
+These Terms & Conditions may be revised in future updates.
+Continued use of the app signifies your acceptance of any changes.
 
 10. Contact Us
-For any queries, please contact:
+For support or inquiries, contact:
 📧 Email: shivprajapati3435@gmail.com
-
